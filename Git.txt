@@ -1,3 +1,5 @@
 Git representa el historial de una manera fundamentalmente diferente de los sistemas de controles de versión centralizados (CVCS),
 como Control de versiones de Team Foundation, Perforce o Subversion. 
 Los sistemas centralizados almacenan un historial independiente para cada archivo de un repositorio.
+
+Modificando el archivo, con nombre git (uvania)
