@@ -2,4 +2,9 @@ Git representa el historial de una manera fundamentalmente diferente de los sist
 como Control de versiones de Team Foundation, Perforce o Subversion. 
 Los sistemas centralizados almacenan un historial independiente para cada archivo de un repositorio.
 
+<<<<<<< HEAD
 Modificando el archivo, con nombre git (uvania)
+=======
+
+agrego esta linea .. fatima
+>>>>>>> 80bc9cfa065609398b8ef91d8380d9139121531c
